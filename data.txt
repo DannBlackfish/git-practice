@@ -1,3 +1,4 @@
 Name: Daniela
 Age: 26
 Favorite color: Red
+Pet: Husky
